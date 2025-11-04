@@ -1,5 +1,5 @@
 ---
-layout: deful
+layout: default
 title: inicio
 ---
 
