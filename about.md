@@ -1,6 +1,6 @@
 ---
-layout default
-title acerca de 
+layout: default
+title: acerca de 
 ---
 
 soy un alumo informatica que esta creando 
