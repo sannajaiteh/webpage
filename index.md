@@ -2,14 +2,14 @@
 layout: splash
 title: inicio
 permalink: /splash-page/
-header: 
- overlay_clor: "#000"
- overlay-filter: "0"
- overlay_image: https://3.bp.blogspot.com/-wdk8M3w2JW0/VV8W1VwtVUI/AAAAAAAACLM/XUjxSpGrSXo/s320/LOGO%2BPRINCIPAL.bmp
- caption:"la foto la eshó perico de los palotes"
- excerpt:"logo del centro educativa FPS"
----
+header:
+  overlay_clor: "#000"
+  overlay-filter: "0"
+  overlay_image: https://3.bp.blogspot.com/-wdk8M3w2JW0/VV8W1VwtVUI/AAAAAAAACLM/XUjxSpGrSXo/s320/LOGO%2BPRINCIPAL.bmp
+  caption: la foto la eshó perico de los palotes
+  excerpt: logo del centro educativa FPS
 
+---
 # !bienvenido a mi sitio web: sanna jaiteh
 
 Esta es una página web de mierda creada por mí con Jekyll y Github Pages
