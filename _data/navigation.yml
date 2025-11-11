@@ -1,1 +1,9 @@
-
+main:
+  -title: " inacio"
+    url: /
+  _title: "ciclos formativa"
+    url: /ciclos/
+  _title: "nuestro centro"
+    url: /acercada/
+  _title: "contacto"
+    url: /contacto/
