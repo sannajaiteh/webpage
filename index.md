@@ -1,7 +1,6 @@
 ---
 layout: splash
 title: inicio
-permalink: /splash-page/
 header:
   overlay_clor: "#000"
   overlay-filter: "0"
