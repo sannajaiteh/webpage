@@ -4,7 +4,7 @@ title: inicio
 header:
   overlay_clor: "#000"
   overlay-filter: "0"
-  overlay_image: https://3.bp.blogspot.com/-wdk8M3w2JW0/VV8W1VwtVUI/AAAAAAAACLM/XUjxSpGrSXo/s320/LOGO%2BPRINCIPAL.bmp
+  overlay_image: /assets/images/LOGO_FP_SALCEDA6.jpg
   caption: la foto la eshó perico de los palotes
   excerpt: logo del centro educativa FPS
 
