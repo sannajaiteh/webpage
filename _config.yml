@@ -5,11 +5,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-  header_pages:
-    - index.md
-    - ciclos.md
-    - about.md
-    - contact.md
-  
-
-  
+header_pages:
+  - index.md
+  - ciclos.md
+  - about.md
+  - contact.md
