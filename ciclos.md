@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: ciclos formativos
-permelink: /ciclos/
+permalink: /ciclos/
 ---
 
 # C.F. de Grado Medio
