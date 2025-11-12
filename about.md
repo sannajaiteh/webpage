@@ -1,6 +1,7 @@
 ---
 layout: default
-title: acerca de 
+title: acerca de
+permalink: /acercade/
 ---
 
 soy un alumo informatica que esta creando 
