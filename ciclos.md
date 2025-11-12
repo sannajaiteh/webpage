@@ -27,5 +27,5 @@ permelink: /ciclos/
 |2|	Comunicación y sociedad II|	130|
 |2|	Tutoría|	30|
 |2|Proyecto intermodular de aprendizaje colaborativo|	50|
-OCUPACIONES MÁS RELEVANTES
+
 ## Alojamiento y lavandaria
