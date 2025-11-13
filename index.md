@@ -1,10 +1,10 @@
 ---
 layout: home
-title: ""
+title: " "
 header:
   overlay_clor: "#000"
   overlay-filter: "0"
-  overlay_image: /assets/images/LOGO_FP_SALCEDA6.jpg
+  overlay_image: /assets/images/LOGO_FP_SALCEDA8.jpg
 caption: ""
 excerpt: ""
 ---
