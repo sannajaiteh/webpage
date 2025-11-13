@@ -1,10 +1,8 @@
 ---
-layout:single
+layout: single
 title: Contacto
 permalink: /contacto/
 ---
-
-# Contacto
 
 Para ponerte en contacto con nosotros puedes:
 
